@@ -1,0 +1,75 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin: 20px;
+    display: inline-block;
+}
+
+h1 {
+   
+    font-weight: light;
+}
+
+#marvel-word {
+  color: rgb(240, 14, 14);
+}
+
+.choose-character-word {
+    font-style: italic;
+    color: white;
+}
+
+.choose-character-box {
+    background-color:rgb(240, 14, 14);
+    width: 55%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1mm;
+    font-size: 25px;
+}
+
+#name-button {
+    border: 2px solid rgb(240, 14, 14);
+    border-radius: 50%;
+    padding: 30px 15px;
+    font-style: italic;
+}
+
+.hero-name {
+    width: 70px;
+    font-size: small;
+    font-weight: bold;
+}
+
+#hero-details-box {
+    border: 3px solid rgb(240, 14, 14);
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.hero-details {
+    text-align: center;
+    margin: 0;
+}
+
+input[type=text] {
+    background-color: #f8f8f8;
+    width: 70%;
+    align-self: center;
+}
+
+.field-box {
+    padding: 10px;
+}
